@@ -22,3 +22,7 @@ B.1. In addition to the birds, can you model a fish?
  b. Fishes don’t walk 
  c. Fishes can swim 
  
+ 
+ 
+B.2. Can you specialize the fish as a Shark and as a Clownfish? a. Sharks are large and grey b. Clownfish are small and colourful (orange) c. Clownfish make jokes d. Sharks eat other fish
+ 
