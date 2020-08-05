@@ -1,2 +1,6 @@
-package com.media.assignment1;public class Sound {
+package com.media.assignment1.interfaces;
+
+public interface Sound {
+    void makeSound(String input);
+
 }
