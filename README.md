@@ -11,4 +11,8 @@ A.2. Now, we have 2 special kinds of birds: the Duck and the Chicken... Can you 
 
 A.3.  Now how would you model a rooster? a. A rooster says: “Cock-a-doodle-doo” b. How is the rooster related to the chicken? c. Can you think of other ways to model a rooster without using inheritance?
 
-<i>Assumption: </i>Rooster is a bird and its type of chicken which makes a different noise.</i> 
+<i>Assumption: </i>Rooster is a bird and its type of chicken which makes a different noise.</i>
+
+A.4. Can you model a parrot? We are specifically interested in three parrots, one that lived in a house with dogs one in a house with cats, the other lived on a farm next to the rooster.  a. A parrot living with dogs says: “Woof, woof” b. A parrot living with cats says: “Meow” c. A parrot living near the rooster says: “Cock-a-doodle-doo” d. How do you keep the parrot maintainable? What if we need another parrot lives near a Duck? Or near a phone that rings frequently
+
+<b>I have used a bridge pattern here, so we jut need to implement two class ParrotWithPhone or ParrotWithDuck to support both the sounds.</b>
