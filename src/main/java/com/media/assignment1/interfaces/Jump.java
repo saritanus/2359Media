@@ -1,5 +1,6 @@
 package com.media.assignment1.interfaces;
 
-public interface Crawl {
-    void crawl();
+public interface Jump {
+    void jump();
 }
+
