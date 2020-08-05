@@ -27,4 +27,6 @@ B.2. Can you specialize the fish as a Shark and as a Clownfish? a. Sharks are la
 B.3. 3. Dolphins are not exactly fish, yet, they are good swimmers a. Can you model a dolphin that swims without inheriting from a fish class? b. How do you avoid duplicating code or introducing unneeded overhead? 
 
 <i>Duplicate codes are already removed by design.</i>
+
+D.1. Can you model a butterfly? a. A butterfly can fly b. A butterfly does not make a sound 
  
