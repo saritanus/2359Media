@@ -2,7 +2,7 @@ package com.media.assignment1;
 
 import com.media.assignment1.interfaces.FishCharacter;
 
-public class Shark {
+public class Shark extends Fish {
     FishCharacter character;
 
     public Shark() {
